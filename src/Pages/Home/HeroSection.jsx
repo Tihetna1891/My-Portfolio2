@@ -15,7 +15,7 @@ export default function HeroSection(){
 
   useEffect(() => {
     // Your JavaScript logic for the HeroSection component
-    console.log('HeroSection component mounted');
+    //console.log('HeroSection component mounted');
 
     // Initialize Typed here
     const typed = new Typed('.multiple-text', {
@@ -28,16 +28,16 @@ export default function HeroSection(){
 
     // You can perform actions like manipulating the DOM, making API calls, etc.
     // For example, changing the background color after 3 seconds
-    const timeoutId = setTimeout(() => {
-      document.body.style.backgroundColor = 'white';
-    }, 3000);
+    //const timeoutId = setTimeout(() => {
+      //document.body.style.backgroundColor = 'white';
+    //}, 3000);
   
 
     // Cleanup function (will be called when the component unmounts)
     return () => {
       // Stop and destroy the Typed instance to prevent memory leaks
       typed.destroy();
-      console.log('HeroSection component will unmount');
+      //console.log('HeroSection component will unmount');
       // Perform any cleanup tasks here
     };
   }, []); // Empty dependency array ensures that the effect runs once on mount
@@ -49,7 +49,7 @@ export default function HeroSection(){
           <div className="hero--section--content--box">
             <div className="hero--section--content">
               <p className="section--title">Hey, I'm Tihetna Mesfin </p>
-              <h1>And I'm a <span class="multiple-text">
+              <h1>And I'm a <span className="multiple-text">
               
                 </span></h1>
              
