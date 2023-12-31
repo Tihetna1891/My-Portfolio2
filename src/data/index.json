@@ -1,0 +1,57 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": "I translate ideas into visually stunning and user-friendly interfaces. Expertise in frameworks like React, django. Passionate about creating intuitive and responsive web applications that delight users."
+    },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Back-End",
+        "description": "I orchestrate the magic behind the scenes, ensuring flawless data flow and server-side operations. Proficiency in languages like [mention specific languages like Python, Java, Node.js]. Adept at building secure and scalable back-end architectures."
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "Lecture",
+        "description": "Sharing my knowledge with the next generation of tech minds. Enthusiastic lecturer with experience in various computer science courses. Dedicated to fostering critical thinking, problem-solving skills, and a love for technology."
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "research",
+        "description": "Exploring new frontiers in the tech landscape. Dedicated researcher with a focus on [mention your research area]. Driven by a thirst for knowledge and a desire to contribute to meaningful advancements."
+      }
+      
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/myblog.png",
+        "title": "MyBlog",
+        "description": "At MyBlog, I share my perspectives, expertise, and discoveries, aiming to inspire and engage readers. Navigate through a user-friendly interface, explore diverse content, and stay updated on the latest trends. Whether you're seeking advice, looking for inspiration, or simply enjoying a good read, MyBlog is your digital sanctuary.Join me on this journey of exploration, knowledge-sharing, and meaningful conversations. Let's embark on a storytelling adventure together at MyBlog! ",
+        "link": "https://github.com/Tihetna1891/cloud-project-new",
+        "linkText": "View In GitHub"
+      },
+      {
+        "id": "2",
+        "src": "./img/Litclique.png",
+        "title": "Lit-Clique",
+        "description": "Lit-Clique is an exciting mobile application built with Flutter, bringing the world of books to your fingertips. This innovative book club app fosters a literary community, allowing users to connect, discuss, and explore the magic of literature together. From discovering new reads to engaging in vibrant discussions, Lit-Clique enriches the reading experience, making it a must-have for avid readers and book enthusiasts. Immerse yourself in a world where literature meets technology, and join Lit-Clique in shaping the future of virtual book clubs.",
+        "link": "https://github.com/Tihetna1891/Lit-Clique",
+        "linkText": "View In GitHub"
+      },
+      {
+        "id": "3",
+        "src": "./img/imgresizer.png",
+        "title": "Image Resizer App",
+        "description": "The Image Resizer App is a versatile solution designed to streamline image management for your website. This web application empowers users to easily resize and optimize images, enhancing web page performance and user experience. With a user-friendly interface, the app offers a range of customization options, allowing users to tailor image dimensions while maintaining quality. Whether optimizing for faster page loading or adapting images for various device resolutions, the Image Resizer App simplifies the process, making it an invaluable asset for web developers and content creators.",
+        "link": "https://github.com/Tihetna1891/ImageResizerAPI",
+        "linkText": "View In GitHub "
+
+      }
+    ]
+    
+  }
